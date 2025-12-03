@@ -137,7 +137,7 @@ console.log(femaleCharacters);
   Ad ognuna di queste proprietà assegna come valore un array vuoto.
 */
 
-let eteColor = {
+let eyeColor = {
   blue: [],
   yellow: [],
   brown: [],
@@ -150,8 +150,23 @@ let eteColor = {
   Ogni personaggio dovrà finire nell'array corrispondente al suo colore degli occhi (al valore della sua proprietà "eye_color").
 */
 
+/*
+switch (starWarsCharacters) {
+
+case 
+
+}
+*/
+
 /* ESERCIZIO 6
   Usa un while loop per calcolare la massa totale dell'equipaggio. Salvala in una variabile chiamata "crewMass".
+*/
+
+/*
+let crewMass
+while (condition) { 
+  
+}
 */
 
 /* ESERCIZIO 7
